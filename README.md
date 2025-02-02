@@ -1,4 +1,4 @@
-# Telegram Bot API Server
+# Telegram Bot API Server .NET Class Library
 
 Telegram Bot API Server Management Library
 
