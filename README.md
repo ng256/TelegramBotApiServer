@@ -1,7 +1,6 @@
-# TelegramBotApiServer
-Telegram Bot API Server Management Library
-
 # Telegram Bot API Server
+
+Telegram Bot API Server Management Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-brightgreen)](https://nodejs.org/)
